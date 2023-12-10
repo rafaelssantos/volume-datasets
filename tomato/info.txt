@@ -1,0 +1,8 @@
+Tomato
+
+256 256 64
+0.390625 0.390625 1
+
+Description: MRI Scan of a tomato. Provided by Bill Johnston and Wing Nip, Information and Computing Sciences Division, Lawrence Berkeley Laboratory, USA.
+
+Original Page: University of Erlangen Datasets Page

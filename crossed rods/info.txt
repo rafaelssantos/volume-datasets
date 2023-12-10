@@ -1,0 +1,8 @@
+Crossed Rods
+
+64 64 64
+1 1 1
+
+Description: Artificial test dataset containing several crossed rods, balls and platters. Rods are placed like coordinate axes to verify correct orientation. Provided by Ove Sommer, Computer Graphics Group, University of Erlangen, Germany.
+
+Original Page: University of Erlangen Datasets Page

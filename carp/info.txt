@@ -1,0 +1,8 @@
+Carp
+
+256 256 512
+0.78125 0.390625 1
+
+Description: CT scan of a carp. The Carp is a seasonal delicacy in Frankonia, Germany. Provided by Michael Scheuring, Computer Graphics Group, University of Erlangen, Germany.
+
+Original Page: University of Erlangen Datasets Page

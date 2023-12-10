@@ -1,0 +1,9 @@
+Engine
+
+256 256 256
+1 1 1
+
+Description: CT scan of two cylinders of an engine block.
+
+Courtesy of: General Electric
+Original Page: University of Tübingen Datasets Page

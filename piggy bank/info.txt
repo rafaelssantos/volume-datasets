@@ -1,0 +1,8 @@
+Piggy Bank
+
+512 512 134
+0.371094 0.371094 1
+
+Description: CT Scan of a Piggy Bank acquired from Siemens Volume Zoom Somatom Plus 4 scanner. In order to prevent scanning artifacts, chocolate coins were used during scanning. Provided by Michael Bauer, Computer Graphics Group, University of Erlangen, Germany.
+
+Original Page: University of Erlangen Datasets Page

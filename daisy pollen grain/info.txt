@@ -1,0 +1,8 @@
+Daisy Pollen Grain
+
+192 180 168
+1 1 1
+
+Description: Daisy pollen grain recorded by confocal laser scanning microscopy. Provided by Olaf Ronneberger, Computer Science Institute, University of Freiburg, Germany.
+
+Original Page: University of Erlangen Datasets Page

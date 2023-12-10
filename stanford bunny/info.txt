@@ -1,0 +1,8 @@
+Stanford Bunny
+
+512 512 361
+0.337891 0.337891 0.5
+
+Description: CT scan of the terracotta Stanford Bunny. The greyscale units are Hounsfield units, denoting electron-density of the subject. The data is raw 512x512 slices, unsigned, 12 bit data stored as 16bit (2-byte) pixels. Provided by Terry Yoo, High Performance Computing and Communications, National Library of Medicine, USA.
+
+Original Page: University of Erlangen Datasets Page

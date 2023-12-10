@@ -1,0 +1,8 @@
+Spherical Distance Volume
+
+64 64 64
+1 1 1
+
+Description: Artificial test dataset containing the euclidean distance to the origin. Provided by Stefan Roettger, Computer Graphics Group, University of Erlangen, Germany.
+
+Original Page: University of Erlangen Datasets Page

@@ -1,0 +1,8 @@
+Chapel Hill Head
+
+256 256 113
+0.95 1 1.8878
+
+Description: CT Study of a female cadaver head acquired from a General Electric CT Scanner. The .sav file available here. Provided by Marc Levoy, Computer Graphics Laboratory, Stanford University, USA.
+
+Original Page: University of Erlangen Datasets Page

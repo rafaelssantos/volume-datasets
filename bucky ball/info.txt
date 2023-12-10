@@ -1,0 +1,9 @@
+Bucky Ball
+
+32 32 32
+1 1 1
+
+Description: Simulation of the electron density of a Buckminster-Fullerene. Provided by AVS, USA. University of Utah, Salt Lake City.
+
+Original Page: University of Erlangen Datasets Page
+

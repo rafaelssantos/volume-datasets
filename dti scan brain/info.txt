@@ -1,0 +1,8 @@
+DTI Scan Brain
+
+128 128 58
+1 1 1
+
+Description: Diffusion Tensor MRI scan provided by Pierre Fillard.
+
+Original Page: University of Erlangen Datasets Page.

@@ -1,0 +1,9 @@
+Fuel Injection
+
+64 64 64
+1 1 1
+
+Description: Simulation of fuel injection into a combustion chamber. The higher the density value, the lower the presence of air. Provided by SFB 382 of the German Research Council (DFG).
+
+
+Original Page: University of Tübingen Datasets Page

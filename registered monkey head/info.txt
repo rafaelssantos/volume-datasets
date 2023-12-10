@@ -1,0 +1,7 @@
+Registered Monkey Head (MRI T1)
+
+256 256 62
+1 1 3
+
+MRI T1 scan of a monkey. The .sav file available here. Provided by Siemens Medical Systems, Inc., Iselin, NJ., USA.
+Original Page: University of Erlangen Datasets Page

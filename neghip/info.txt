@@ -1,0 +1,9 @@
+Neghip
+
+64 64 64
+1 1 1
+
+Description: Neghip, Negative high potential protein molecule. Simulation of the spatial probability distribution of the electrons in a high potential protein molecule. Provided by VolVis distribution of SUNY Stony Brook, NY, USA. Courtesy of: VolVis distribution of SUNY Stony Brook, NY, USA.
+
+Original Page: University of Tübingen Datasets Page
+ 

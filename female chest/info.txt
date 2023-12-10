@@ -1,0 +1,8 @@
+Female Chest
+
+384 384 240
+1 1 1
+
+Description: CT scan of a female chest. Provided by Department of Radiology, University of Iowa.
+
+Original Page: University of Erlangen Datasets Page

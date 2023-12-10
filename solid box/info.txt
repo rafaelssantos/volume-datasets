@@ -1,0 +1,8 @@
+Solid Box
+
+64 64 64
+1 1 1
+
+Description: Artificial test dataset containing a solid box. Provided by Stefan Roettger, Computer Graphics Group, University of Erlangen, Germany.
+
+Original Page: University of Erlangen Datasets Page

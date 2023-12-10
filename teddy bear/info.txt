@@ -1,0 +1,8 @@
+Teddy Bear
+
+512 512 63
+0.693359 0.693359 5
+
+Description: CT Scan. Provided by Bernd Tomandl, Division of Neuroradiology, University of Erlangen, Germany
+
+Original Page: University of Erlangen Datasets Page.

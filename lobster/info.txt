@@ -1,0 +1,8 @@
+Lobster
+
+301 324 56
+1 1 1.4
+
+CT Scan of a lobster. The lobster is contained in a block of resin. Provided by VolVis distribution of SUNY Stony Brook, NY, USA.
+
+Original Page: University of Erlangen Datasets Page

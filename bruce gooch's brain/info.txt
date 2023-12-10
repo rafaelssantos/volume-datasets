@@ -1,0 +1,8 @@
+Bruce Gooch's Brain
+
+256 256 256
+1 1 1
+
+Description: FMRI scans taken at an undisclosed location in the University of Utah research park. Matlab scripts that can be used to view the MRI data is avaliable here. Provided by Bruce Gooch University of Utah, Salt Lake City.
+
+Original Page: University of Erlangen Datasets Page

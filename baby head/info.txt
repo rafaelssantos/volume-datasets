@@ -1,0 +1,9 @@
+Baby Head
+
+256 256 98
+1 1 1
+
+Description: CT Scan of a baby head. The .sav file available here
+Distributed with the VolSuite package. Jason Bryan is the developer and maintainer of VolSuite.
+
+Original Page: University of Erlangen Datasets Page

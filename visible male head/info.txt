@@ -1,0 +1,8 @@
+Visible Male Head
+
+128 256 256
+1.57774 0.995861 1.00797
+
+Description: CT Scan of the well known visible man. Provided by Bill Johnston, National Library of Medicine, National Institutes of Health, USA
+
+Original Page: University of Erlangen Datasets Page

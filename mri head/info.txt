@@ -1,0 +1,8 @@
+MRI Head
+
+256 256 256
+1 1 0.8
+
+MR scan of male head. The .sav file available here. Provided by Computer Graphics Group, University of Erlangen, Germany.
+
+Original Page: University of Erlangen Datasets Page

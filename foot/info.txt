@@ -1,0 +1,8 @@
+Foot
+
+256 256 256
+1 1 1
+
+Description: Rotational C-arm x-ray scan of a human foot. Tissue and bone are present in the dataset. Courtesy of: Philips Research, Hamburg, Germany.
+
+Original Page: University of Tübingen Datasets Page

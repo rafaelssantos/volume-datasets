@@ -1,0 +1,8 @@
+Frog
+
+256 256 44
+0.5 0.5 1.0
+
+MRI Scan of a frog acquired from a Philips CT Scanner. The .sav file available here. Provided by Information and Computing Sciences Division, Lawrence Berkeley Laboratory, USA.
+
+Original Page: University of Erlangen Datasets Page

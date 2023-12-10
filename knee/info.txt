@@ -1,0 +1,8 @@
+Knee
+
+512 512 87
+0.25 0.25 1.5
+
+Description: MRI Scan. From the Transfer Function Bakeoff at IEEE Visualization 00 Conference. Original source: http://visual.nlm.nih.gov. Provided by Brigham and Women s Hospital Surgical Planning Laboratory.
+
+Original Page: University of Erlangen Datasets Page

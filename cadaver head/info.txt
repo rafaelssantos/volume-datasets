@@ -1,0 +1,8 @@
+Cadaver Head
+
+512 512 106
+0.435547 0.435547 2
+
+Description: CT scan of a cadaver head. The cadaver head is famous for the scanning artifacts originating at the teeth. Provided by Computer Graphics Group, University of Erlangen, Germany.
+
+Original Page: University of Erlangen Datasets Page

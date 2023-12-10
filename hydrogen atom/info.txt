@@ -1,0 +1,8 @@
+Hydrogen Atom
+
+128 128 128
+1 1 1
+
+Description: Simulation of the spatial probability distribution of the electron in an hydrogen atom, residing in a strong magnetic field. Courtesy of: SFB 382 of the German Research Council (DFG).
+
+Original Page: University of Tübingen Datasets Page

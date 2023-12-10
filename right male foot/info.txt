@@ -1,0 +1,5 @@
+Right Male Foot
+Description: CT Scan of the well known right male foot. Provided by Bill Johnston, National Library of Medicine, National Institutes of Health, USA
+
+102 247 200
+0.95  0.95  1
